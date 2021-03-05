@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" sizeclass="9" type="collection">
+    <element audit="true" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" sizeclass="12" type="collection">
         <element choice="1" default="Open, &#10;Work in Progress,&#10; Closed Complete, Closed Incomplete, Closed Skipped" label="Status" max_length="40" name="status" type="choice">
             <choice/>
         </element>
